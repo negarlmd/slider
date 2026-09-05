@@ -5,8 +5,8 @@ A modern image slider built with **HTML, CSS, and JavaScript**, featuring glassm
 ## 🌐 Live Demo
 
 ### ▶️ Open the Demo Locally
-[**Launch Slider Demo →**](./index.html)
 
+(https://negarlmd.github.io/slider/)
 > For a real online demo, deploy this repository with **GitHub Pages**, **Netlify**, or **Vercel**, then replace the link below with your deployed URL.
 
 ### 🚀 GitHub Pages
@@ -22,7 +22,7 @@ Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your GitHub username and repo
 
 ## 📸 Preview
 
-![Modern Glassmorphism Slider](./img/slider-preview.png)
+![Modern Glassmorphism Slider](./img.slider.png)
 
 ---
 
