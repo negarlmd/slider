@@ -22,7 +22,7 @@ Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your GitHub username and repo
 
 ## 📸 Preview
 
-![Modern Glassmorphism Slider](./img.slider.png)
+./img.slider.png)
 
 ---
 
